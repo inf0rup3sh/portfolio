@@ -294,6 +294,7 @@ body.dark-mode {
   position: relative;
 }
 .tech-over {
+  /* border: 2px solid red; */
   position: absolute;
   top: 50px;
   left: 0;
@@ -301,6 +302,7 @@ body.dark-mode {
   width: 500px;
   opacity: 0.3;
   filter: drop-shadow(1px 2px 3px #2b66bd);
+
 }
 .tech-over img {
   height: 100%;
