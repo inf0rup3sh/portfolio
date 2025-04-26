@@ -293,7 +293,7 @@ body.dark-mode {
 #Techs {
   position: relative;
 }
-.overlay {
+.tech-over {
   position: absolute;
   top: 50px;
   left: 0;
@@ -302,7 +302,7 @@ body.dark-mode {
   opacity: 0.3;
   filter: drop-shadow(1px 2px 3px #2b66bd);
 }
-.overlay img {
+.tech-over img {
   height: 100%;
 }
 
